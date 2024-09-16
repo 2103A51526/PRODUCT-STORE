@@ -40,17 +40,17 @@ Start the application:<br>
 `npm start`
 
 # PROJECT STRUCTURE
-`
+<b>
 ├── src
 │   ├── components   # React components (Chakra UI used for UI elements)
 │   ├── pages        # Frontend pages
-│   ├── App.js       # Main entry point for frontend
-├── models
-│   ├── Product.js   # Mongoose product schema
-├── routes
-│   ├── productRoutes.js   # Express.js routes for product management
-├── server.js        # Main entry point for the backend server
-└── README.md        # Project README`
+│   ├── App.js       # Main entry point for frontend<br>
+├── models<b>
+│   ├── Product.js   # Mongoose product schema</b>
+├── routes<b>
+│   ├── productRoutes.js   # Express.js routes for produt Storing </b>
+├── server.js        # Main entry point for the backend server <br>
+└── README.md        # Project README<br>
 
 # Usage:
 This section explains how to use the system once it's up and running. For example:<br>
@@ -68,10 +68,8 @@ DELETE /api/products/<br>
 : Deletes a product by ID.<br>
 
 
-# PROJECT DEMO
+<pre>https://example.com/api/docs</pre>
 
-
-Check out this [video tutorial]("C:\Users\Vikram Kumar\Videos\Captures\Vite + React - Google Chrome 2024-09-16 10-05-32.mp4") for more details!
 
 
 
