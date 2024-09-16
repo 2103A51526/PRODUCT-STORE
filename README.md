@@ -5,8 +5,14 @@ This project is a Product Storing built using Express.js, MongoDB, Mongoose, and
 # Features
 
 <b>Product Management:</b> Add, update, fetch, and delete products from the MongoDB database. <br>
+![image](https://github.com/user-attachments/assets/5ffd77bd-d880-4e59-9a91-4559bf34a203) <br>
+
+![image](https://github.com/user-attachments/assets/ac9b4d34-b812-4799-b36c-17763e52356a)
+
 <b>Responsive UI:</b> Built using Chakra UI for responsive and modern design.<br>
 <b>Dark/Light Mode:</b> Toggle between dark and light modes in the Navbar.<br>
+![image](https://github.com/user-attachments/assets/d61bcb37-781a-442a-ba33-04fbaf3384d3) <br>
+![image](https://github.com/user-attachments/assets/c87b01bf-bdbc-4450-b40c-a2f4b8fb82f1)
 <b>Data Persistence:</b> Mongoose is used to handle product data and connect to the MongoDB database.<br>
 
 # Tech Stack
