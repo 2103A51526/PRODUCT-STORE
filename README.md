@@ -74,7 +74,6 @@ DELETE /api/products/<br>
 : Deletes a product by ID.<br>
 
 
-<pre>https://example.com/api/docs</pre>
 
 
 
